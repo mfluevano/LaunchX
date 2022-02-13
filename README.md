@@ -1,5 +1,23 @@
-**Ejercicios y ejemplos de LaunchX**
+# Launch X 
+___
+Bitacora del tripulante
+___
 
-![onboarding](https://user-images.githubusercontent.com/9124597/152575053-a3da1c90-772e-4ca7-a544-8056462704cd.png)
+```
+Tripulante : launchx02928@innovaccion.mx
+Mensaje: Reconocimiento de la nave
 
-[Modulo 0 Preparacion del entorno](/LaunchX-InnovacionVirtual/CursoPython/Modulo 0 Preparacion del entorno/)
+```	
+>| Modulo | Visto | Practicado | Entregado
+>| ------ | ----- | ---------- | ----------
+>|Preparación del entorno de trabajo       |&#9745;|&#9745;| &#9745;|
+>|Primeros pasos                           |&#9745;|&#9745;| &#9745;|
+>|Crear y administrar proyectos            |&#9745;|&#9744;| &#9744;|
+>|Usar lógica booleana                     |&#9744;|&#9744;| &#9744;|
+>|Cadenas                                  |&#9744;|&#9744;| &#9744;|
+>|Usar operaciones matemáticas             |&#9744;|&#9744;| &#9744;|
+>|Introducción a las listas                |&#9744;|&#9744;| &#9744;|
+>|Estructuras de control                   |&#9744;|&#9744;| &#9744;|
+>|Administrar datos con diccionarios       |&#9744;|&#9744;| &#9744;|
+>|Funciones                                |&#9744;|&#9744;| &#9744;|
+>|Manejo de errores                        |&#9744;|&#9744;| &#9744;|
